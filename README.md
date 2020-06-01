@@ -6,7 +6,7 @@
 
 ## Description
 
-My current portfolio displaying my recent work
+My current portfolio displaying my recent work.
 
 ## Setup/Installation Requirements
 
