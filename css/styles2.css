@@ -17,21 +17,13 @@ h2 {
 body {
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+  font-size: 20px;
   background-image: url("../assets/silver.jpg");
   background-repeat: no-repeat; 
   background-size: cover;
 }
 
-.col-md-6 img {
-  width: auto;
-  height: 350px;
-
-}
-
-.col-md-12 h2 {
-  font-size: 60px;
-}
-
-h3 {
-  text-align: center;
+.col-md-12 {
+  justify-content: center;
+  align-items: center;
 }
