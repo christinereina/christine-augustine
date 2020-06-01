@@ -1,0 +1,37 @@
+h1 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 125px;
+  text-shadow:black 2px 0 2px;
+  color: aliceblue;
+  opacity: 0.9;
+}
+
+h2 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 50px;
+  color: aliceblue;
+  text-align: center;
+
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  background-image: url("../assets/silver.jpg");
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+.col-md-6 img {
+  width: auto;
+  height: 350px;
+
+}
+
+.col-md-12 h2 {
+  font-size: 60px;
+}
+
+h3 {
+  text-align: center;
+}
