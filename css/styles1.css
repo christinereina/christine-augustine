@@ -25,6 +25,7 @@ body {
 .col-md-6 img {
   width: auto;
   height: 350px;
+  margin-bottom: 10px;
 
 }
 
@@ -38,4 +39,10 @@ h3 {
 
 .nav-link {
   color: aliceblue;
+}
+
+.btn {
+  font-family: 'Shrikhand', cursive;
+  font-size: 40px;
+  margin-bottom: 10px;
 }
