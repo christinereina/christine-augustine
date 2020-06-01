@@ -6,14 +6,14 @@
 
 ## Description
 
-My current portfolio displaying my recent work.
+My current portfolio displaying my recent work ^_^
 
 ## Setup/Installation Requirements
 
 Clone my github repository from your computer's Terminal (make sure you are on your Desktop)
 
 * cd desktop
-* git clone 
+* git clone https://github.com/christinereina/christine-augustine.git
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
@@ -30,7 +30,7 @@ n/a
 Feel free to say hello! Additionally, if you have any questions, suggestions and/or feedback, please don't hesitate to contact me. 
 
 Christine Augustine's email:
-_blacchoy@gmail.com_
+_codechristin3@gmail.com_
 
 ## Technologies Used
 
@@ -38,8 +38,6 @@ _blacchoy@gmail.com_
 * _Git_
 * _HTML_
 * _CSS_ 
-* _Javascript_
-
 
 ### License
 

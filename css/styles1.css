@@ -25,12 +25,13 @@ body {
 .col-md-6 img {
   width: auto;
   height: 350px;
-  margin-bottom: 10pxq;
+  margin-bottom: 10px;
 
 }
 
 .col-md-12 h2 {
   font-size: 60px;
+  margin-bottom: 10px;
 }
 
 h3 {
