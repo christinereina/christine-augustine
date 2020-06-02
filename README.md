@@ -1,4 +1,4 @@
-# _Christine Augustine [Portfolio]() 2020_
+# _Christine Augustine [Portfolio](https://christinereina.github.io/christine-augustine/) 2020_
 
 #### Epicodus:: Week One:: Git, HTML and CSS Indepedent Project:: 05.29.2020
 
@@ -17,7 +17,7 @@ Clone my github repository from your computer's Terminal (make sure you are on y
 
 Open folder and drag/drop the index.html file into your preferred web browser
 
-Alternatively, you can also view my porfolio by clicking [here]()
+Alternatively, you can also view my porfolio by clicking [here](https://christinereina.github.io/christine-augustine/)
 
 Lastly, enjoy my porfolio :3
 
