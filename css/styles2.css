@@ -4,6 +4,7 @@ h1 {
   text-shadow:black 2px 0 2px;
   color: aliceblue;
   opacity: 0.9;
+  padding: 10px;
 }
 
 h2 {
@@ -11,7 +12,6 @@ h2 {
   font-size: 50px;
   color: aliceblue;
   text-align: center;
-
 }
 
 body {
@@ -21,6 +21,7 @@ body {
   background-image: url("../assets/silver.jpg");
   background-repeat: no-repeat; 
   background-size: cover;
+  padding-bottom: 40px;
 }
 
 .col-md-12 {
@@ -34,7 +35,9 @@ body {
 }
 
 .btn {
+  padding-top: 10px;
   font-family: 'Shrikhand', cursive;
   font-size: 40px;
   margin-bottom: 10px;
 }
+
