@@ -47,3 +47,19 @@ h3 {
   font-size: 40px;
   margin-bottom: 10px;
 }
+
+#list {
+  float: left;
+  text-align: left;
+}
+
+#list1 {
+  float: right;
+  text-align: right;
+}
+
+h4 {
+  font-family: 'Shrikhand', cursive;
+  color: aliceblue;
+
+}
